@@ -1,0 +1,1 @@
+Initialise le lab routing
